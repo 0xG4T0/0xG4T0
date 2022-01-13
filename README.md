@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0xG4T0
 - 👀 I’m interested in 💻🔐🐈‍⬛🪴💹.
-- 🌱 I’m currently learning 🐍
+- 🌱 I’m currently learning 🐍, Yara, Sigma
 - 💞️ I’m looking to collaborate on 🤷🏼‍♂️
 - 📫 How to reach me 📶
 
